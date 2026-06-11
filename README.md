@@ -1,4 +1,4 @@
-# 🛍️ ShopSense — Amazon Product Search
+# 🛍️ SearchSense — Amazon Product Search
 
 A semantic product search engine built with **TF-IDF** and **cosine similarity**, powered by Streamlit. Search through thousands of Amazon India products and get ranked results instantly.
 
@@ -6,13 +6,13 @@ A semantic product search engine built with **TF-IDF** and **cosine similarity**
 
 ## 🚀 Live Demo
 
-> Deployed on Streamlit Community Cloud: [your-app-link.streamlit.app](https://your-app-link.streamlit.app)
-
+> Deployed on Streamlit Community Cloud:(https://search-sense.streamlit.app/)
 ---
 
 ## 📸 Preview
 
-![ShopSense Preview](preview.png)
+<img width="1920" height="992" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/54ef3e6c-a5ff-4aca-ac26-661c274b5d9f" />
+
 
 ---
 
@@ -78,15 +78,6 @@ streamlit run app.py
 ```
 
 Open [http://localhost:8501](http://localhost:8501) in your browser.
-
----
-
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push this repository to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
-3. Click **New app** → select your repo → set main file to `app.py`.
-4. Click **Deploy**.
 
 ---
 
